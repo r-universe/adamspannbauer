@@ -1,0 +1,10 @@
+[
+  {
+    "package": "lexRankr",
+    "oncran": true
+  },
+  {
+    "package": "rPackedBar",
+    "oncran": true
+  }
+]
